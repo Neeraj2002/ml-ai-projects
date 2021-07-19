@@ -1,0 +1,4 @@
+The ML code used here haarcascade_frontalface_default.xml is not owned by me
+I was learning on YouTube and found a video for making this AI
+The video used here is https://www.youtube.com/watch?v=XIrOM9oP3pA
+I don't know how the xml file work! I only know the logic of the xml file works!
